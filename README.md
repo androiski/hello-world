@@ -1,2 +1,2 @@
 # hello-world
-my first, but certainly not last respository
+my first (but certainly not last) respository
